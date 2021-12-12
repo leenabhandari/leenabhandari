@@ -2,7 +2,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=This%20is%20me.%20Leena%20👨‍💻&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning: Behaviour psychology (along with other interesting topics)
+- 🌱 I’m currently learning: Behaviour psychology (among other interesting topics)
 - 🔭 I’m currently working on: Developing a productive routine.
 - 👯 I’m looking to collaborate on: Something not boring.
 - 🤔 I’m looking for help with: hmm..
