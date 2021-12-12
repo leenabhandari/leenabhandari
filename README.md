@@ -14,13 +14,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Leena's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenabhandari&show_icons=true&count_private=true&include_all_commits=true) -->
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api?username=leenabhandari&show_icons=true&count_private=true&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leenabhandari&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact" />
+</a>
+
                                                               
 ## Connect with me:
 
