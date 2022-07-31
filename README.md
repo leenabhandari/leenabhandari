@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: Connect with me! (Scroll for links)
 - ⚡ Fun fact: Just another programmer who prefers Windows over Mac because of budget reasons. Lol
-#### My stats aren't superb. But here you go;
+#### Capture's a fraction of the picture. But, here you go;
 [![Leena's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9375838&layout=compact)](https://stackoverflow.com/users/9375838/leena)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenabhandari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
