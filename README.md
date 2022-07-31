@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Developing a productive routine.
 - 👯 I’m looking to collaborate on: Hackathons, PoCs, Anything not boring.
 - 🤔 I’m looking for help with: hmm..
-- 💬 Ask me about: Product backend design, UX feedback, Hackathon pitch, Early-career advice & Well, anything..
+- 💬 Ask me about: Product backend design, UX feedback, AR, Hackathon pitch, Early-career advice & Well, anything..
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: Connect with me! (Scroll for links)
 - ⚡ Fun fact: Just another programmer who prefers Windows over Mac because of budget reasons. Lol
