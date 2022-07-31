@@ -1,12 +1,12 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=This%20is%20me.%20Leena%20👨‍💻&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-- 😄 Pronouns: She/Her
-- 🌱 I’m currently learning: Behaviour psychology (among other interesting topics)
+- 🌱 I’m currently learning: Data Intensive Software design, Robust API development, Behaviour psychology (among other interesting topics)
 - 🔭 I’m currently working on: Developing a productive routine.
-- 👯 I’m looking to collaborate on: Something not boring.
+- 👯 I’m looking to collaborate on: Hackathons, PoCs, Anything not boring.
 - 🤔 I’m looking for help with: hmm..
-- 💬 Ask me about: Well, anything..
+- 💬 Ask me about: Product backend design, UX feedback, Hackathon pitch, Early-career advice & Well, anything..
+- 😄 Pronouns: She/Her
 - 📫 How to reach me: Connect with me! (Scroll for links)
 - ⚡ Fun fact: Just another programmer who prefers Windows over Mac because of budget reasons. Lol
 #### My stats aren't superb. But here you go;
